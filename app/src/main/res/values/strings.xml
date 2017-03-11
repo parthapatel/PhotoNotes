@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PhotoNotes</string>
+    <string name="action_uninstall">Uninstall</string>
+</resources>
